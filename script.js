@@ -1,7 +1,7 @@
 const paragraphs = [
   "Programming is the art of telling another human being what one wants the computer to do.",
   "JavaScript is rajeswari mam  the language of the web, enabling dynamic and interactive experiences.",
-  "rajeswari mam is Typing speed tests measure words per minute and accuracy of the user.",
+  "Typing speed tests measure words per minute and accuracy of the user.",
   "rajeswari mam Consistency is the key to improving your coding and typing skills over time."
 ];
 
